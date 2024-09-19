@@ -1,0 +1,12 @@
+import { useState } from "react";
+import FullName from "./FullName";
+
+function App() {
+  return (
+    <div className="App">
+      <FullName />
+    </div>
+  );
+}
+
+export default App;
