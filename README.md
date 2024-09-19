@@ -1,4 +1,4 @@
-## Code comparison between Solid and React
+## To run Solid or React using Vite
 
 Step 1
 ```
