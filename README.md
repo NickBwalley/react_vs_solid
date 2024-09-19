@@ -4,15 +4,4 @@
 ```
 npm create vite@latest
 ```
-Step 1
-```
-cd react
-```
-Step 2
-```
-npm install   
-```
-Step 3
-```
-npm run dev
-```
+
